@@ -1,0 +1,17 @@
+{
+  "name": "create-react-component-jsx-less",
+  "version": "1.0.0",
+  "description": "Generation react components",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "node ./index Test"
+  },
+  "author": "Богданов Илья <onesuch07@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "change-case": "^3.0.2",
+    "commander": "^2.18.0"
+  }
+}
